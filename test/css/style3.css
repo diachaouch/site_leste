@@ -1,0 +1,287 @@
+#footer_links {
+	
+    background: #232323;
+    padding: 20px 0;
+}
+#footer_links .list_links ul.justify-content-sm {
+	position: relative;
+	
+	
+	
+	
+	
+	
+}
+#footer_links .list_links ul * {
+	width: 149.6666;
+	margin-right: 5px;
+	padding-right: 10px;
+	box-sizing: border-box;
+	
+	
+}
+
+#footer_links .list_links ul li ul li
+{
+	margin-left: 0;
+	display:block;
+}
+
+#footer_links .list_links ul li {
+    display:inline-block;
+    vertical-align: top;
+	list-style: none;
+    color: #fff;
+}
+
+#footer_links .list_links ul li a {
+	margin-left: -40;
+    display: block;
+    opacity: 0.5;
+    font-family: 'HelveticaNeueLTCom-MdCn',Arial,Helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    
+    text-decoration: none;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+	 background: transparent;
+	
+		
+}
+#footer_links .list_links a{
+	color: #fff;
+	opacity: 0.5;
+	box-sizing: border-box;
+	
+}
+#footer_links .list_links ul li a:before{content:"";margin-right: 5px; }
+#footer_links .list_links ul li a:before{
+	color:#c6c6c6;
+	display:inline-block; 
+	font-family:FontAwesome; 
+	font-style:normal; font-weight:normal; 
+	line-height:1;
+}
+#footer_links .list_links a:hover {
+    color: #fff;
+    text-decoration: underline;
+    -webkit-transition: all .25s cubic-bezier(0.4,0,0.2,1);
+    transition: all .25s cubic-bezier(0.4,0,0.2,1);
+    -webkit-transition-timing-function: cubic-bezier(0.4,0,0.2,1);
+    transition-timing-function: cubic-bezier(0.4,0,0.2,1);
+	opacity: 1;
+}
+
+#footer_links .list_links ul li h5 {
+	font-family: 'HelveticaNeueLTCom-MdCn',Arial,Helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+	margin-bottom: 8px;
+}
+#footer_links .list_links ul li.menu-has-children ul{
+	margin-left:-30;
+} 
+#footer_links .list_links  li{
+	margin-right: 18px;
+	width: 130.7;
+	
+	
+}
+  <ul class="justify-content-sm-center">
+	<li>
+   <h5>L'école</h5>
+  <ul>
+    <li><a href="/fr/presentation" title="">Présentation générale</a></li>
+     <li><a href="/fr/les-grands-projets" title="">Mot du directeur</a></li>
+      <li><a href="/fr/chiffres-cles" title="">Enim en chiffre</a></li>
+     <li><a href="/fr/node/1480/" title="">Staff acadèmique</a></li>
+     <li><a href="/fr/nos-partenaires-academiques-institutionnels" title="">Commissions</a></li>
+     <li><a href="/fr/partenaires-internationaux" title="">Conseil scientifique</a></li>
+    <li class="menu-has-children "><a href="">Départements</a>
+            <ul>
+              <li><a href="Dept_mecanique.html">Département Génie Mecanique </a></li>
+              <li><a href="Dept_energetique.html">Département Génie Énergétique </a></li>
+              <li><a href="Dept_electrique.html">Département Génie Electrique</a></li>
+              <li><a href="Dept_textile.html">Département Génie Textile  </a></li>
+			 <li><a href="Dept_info_math.html">Département Informatique, Math & Gestion</a></li>
+            </ul>
+          </li>	
+    
+  <li><a href="#">Structure de Recherche</a></li>
+			<li class="menu-has-children "><a href="">Production Scientifique</a>
+				<ul>
+              <li><a href="#">Articles publiès </a></li>
+			  <li><a href="#">Communications publièes  </a></li>
+               </ul>
+	         </li>
+  <li><a href="#">Rang des nouveaux recrùs</a></li>	
+  <li><a href="#">Galerie de photos</a></li>	
+  </ul>
+    </li>
+		 
+		 <li>
+    <h5>Vie Estudiantine</h5>
+
+    <ul>
+    <li class="menu-has-children "><a href="">Formulaire d'inscription</a>
+            <ul>
+              <li><a href="#">Formulaire d'inscription Ingénieur </a></li>
+              <li><a href="#">Formulaire d'inscription MRGM1</a></li>
+			  <li><a href="#">Formulaire d'inscription MRGM2</a></li>
+			  <li><a href="#">Formulaire d'inscription MRGM LMD</a></li>
+			  <li><a href="#">Formulaire d'inscription Thèse </a></li>
+            </ul>
+     </li>
+		
+    <li class="menu-has-children "><a href="">Demande de stage</a>
+            <ul>
+              <li><a href="#">Formulaire de demande de stage </a></li>           
+            </ul>
+    </li>
+    
+    <li class="menu-has-children "><a href="">Scolarité-Annonces</a>
+            <ul>
+              <li><a href="#">Conditions d'obtention de diplôme  </a></li>
+              <li><a href="#">Validation de crédit  </a></li>
+			  <li><a href="#">Admission avec crédit  </a></li>
+			  <li><a href="#">Calcul Moyenne  </a></li>
+			  <li><a href="#">Assiduité et élimination  </a></li>
+			  <li><a href="#">Prolongation de scolarité  </a></li>
+			  <li><a href="#">Durée de EX-DS  </a></li>
+			  <li><a href="#">Redoublement  </a></li>
+             
+            </ul>
+				  
+    </li>
+		
+    <li class="menu-has-children "><a href="">Clubs & Associations</a>
+        <ul>
+        <li  class="menu-has-children "><a href="#">Clubs </a>
+	     <ul>
+				  
+		   <li><a href="#">Assiduité et élimination  </a></li>
+		   <li><a href="#">Prolongation de scolarité  </a></li>
+		   <li><a href="#">Durée de EX-DS  </a></li>
+		   <li><a href="#">Redoublement  </a></li>
+				  
+				  
+	     </ul>
+		</li>
+    <li  class="menu-has-children "><a href="#">Associations </a>
+		<ul>
+				  
+		  <li><a href="#">Assiduité et élimination  </a></li>
+		  <li><a href="#">Prolongation de scolarité  </a></li>
+		  <li><a href="#">Durée de EX-DS  </a></li>
+		  <li><a href="#">Redoublement  </a></li>
+				  
+				  
+	   </ul>
+	</li>
+			  
+             
+    </ul>
+    </li>
+	
+    </ul>
+    </li>
+	
+		 <li>                                    
+	<h5>Formations</h5>
+    <ul>
+	<li><a href="/fr/deposer-une-offre-de-stage-emploi-ou-vie" title="">Formations</a></li>
+    <li class="menu-has-children "><a href="">Plan d'études Ingénieur</a>
+            <ul>
+              <li><a href="Formations.html#Formations">Génie Mecanique </a></li>
+              <li><a href="Formations.html#Formations">Génie Énergétique </a></li>
+              <li><a href="Formations.html#Formations">Génie Electrique</a></li>
+              <li><a href="Formations.html#Formations">Génie Textile  </a></li>
+			</ul>
+    </li>
+		
+    <li class="menu-has-children "><a href="">Plan d'études Doctorale</a>
+            <ul>
+              <li><a href="Formations.html#Formations">Doctorat </a></li>
+              <li><a href="Formations.html#Formations">Mastère RGM </a></li>
+              <li><a href="Formations.html#Formations">Mastech GM</a></li>
+              
+			</ul>
+          
+    </li>
+    
+    </ul>
+    </li>
+		 
+  <li>
+     <h5>E-ENIM</h5>
+  <ul>
+   <li class="menu-has-children "><a href="">Bibliothèque</a>
+            <ul>
+              <li><a href="#">Accès en ligne </a></li>
+              <li><a href="#">Liste des ouvrages (PDF) </a></li>
+             
+            </ul>
+          </li>
+    <li><a href="#">Portail</a></li>
+    <li class="menu-has-children "><a href="">Alumin</a>
+            <ul>
+              <li><a href="#">Suivi des diplômés  </a></li>
+              <li><a href="#">Recherche des diplômés de l'ENIM  </a></li>
+             
+            </ul>
+    </li>
+    
+    </ul>
+    </li>
+   
+                                                                              
+	
+                                                                               
+	<li>
+    <h5>Coopérations</h5>
+    <ul>
+    <li class="menu-has-children "><a href="#">Projet en réseau</a>
+				<ul>
+				<li><a href="#">ERASMUS Plus</a></li>
+              <li><a href="#">Compus France</a></li>
+				</ul>
+				</li>
+				
+    <li><a href="#about">Conventions</a></li>
+	<li><a href="#contact">Offre de mobilités</a></li>
+	<li><a href="#contact">Bourse d'études</a></li>
+	<li><a href="#contact">Coopérations</a></li>
+    
+    </ul>
+    </li>
+                                                                             
+   <!--<li>
+   <h5>école doctorale</h5>
+   <ul>
+   <li><a href="/fr/actualites" title="">Offre de mobilités</a></li>
+   <li><a href="/fr/evenements" title="">Département Génie Textile</a></li>
+   <li><a href="/fr/reseaux-sociaux" title="">Social wall</a></li>
+   </ul>
+   </li>-->
+	 
+   <li>
+   <h5>Actualités</h5>
+   <ul>
+   <li><a href="/fr/actualites" title="">Actualités</a></li>
+   <li><a href="/fr/evenements" title="">Agenda</a></li>
+   <li><a href="/fr/reseaux-sociaux" title="">Social wall</a></li>
+   </ul>
+   </li>
+	<li>
+   <h5>Actualités</h5>
+   <ul>
+   <li><a href="/fr/actualites" title="">Actualités</a></li>
+   <li><a href="/fr/evenements" title="">Agenda</a></li>
+   <li><a href="/fr/reseaux-sociaux" title="">Social wall</a></li>
+   </ul>
+   </li>	 
+   </ul>

@@ -1,0 +1,6 @@
+AuthUserFile "/home/lesteeni/www/phpMyadmin/.htpasswd"
+AuthName "Veuillez vous identifier"
+AythType Basic
+<Limit GET POST>
+require valid-user
+</Limit>
